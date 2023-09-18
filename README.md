@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
-- Live Site URL: (order-summary-card-12345.netlify.app)
+- Solution URL: (https://www.frontendmentor.io/solutions/responsive-order-summary-card-component-solution-using-flex-box-66FnWe5z8p)
+- Live Site URL: (https://order-summary-card-12345.netlify.app)
 
 ## My process
 
